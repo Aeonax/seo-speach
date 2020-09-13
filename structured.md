@@ -136,3 +136,32 @@ After some investigations I changed my mind again - it would be suspicious to fo
 
 ### Breadcrumbs
 It will show google/users our pages hierarchy, as for me must have... After we will reinvent our hierarchy.
+
+## Pages hierarchy
+- Yellowsack main - Yellowsack organization
+  - Yellowsack in XX(SF...) - Yellowsack LocalBusiness + offers with prices related to region + refered to service
+- Yellowsack bag :see_no_evil: Product with description and images
+- Yellowsack pickup
+  - Pickup XXXXX(dirt....), offers refered to LocalBusiness offers
+- FAQ. google supports structured data and uses it in reach results. They should contain all response and be ready to fit google snippet and be used by customer to navigate in necessary place.
+  - without errors!!!! Make Troy check it out or order someone to create/validate content=)))
+  - without repeats!!!-_-
+  - How to use(short(1,2,3) with link to how-to-use page)?
+  - Contractors. What benefits will i get as contactor(with link to sign as contractor)
+  - Can I buy bag without ordering pickup?=)))))
+  
+
+  - When will I recieve my Yellowsack? "We are doing our best to ship it within 24 hours, if we ship it by UPS and not our deiver it'll depend on ups, but usually to 3 days." - 2-3 days sux especially if we deliver it in one day.
+  - Can i order pickup of non Yellowsack bag?
+  - How can i get yellowsack? "In partners stores(link) or order it online(link to Product)."
+  - What is the size of the Yellowsack? (more human text?)
+  - delivery address question - we even haven't delivery address input :see_no_evil:
+  - What benefits compared to dumpster rental - short with link to Service or more big description(would be better?=))
+  
+  <!-- - What benefits compared to waste removal -->
+  <!-- - ... -->
+- Stores... we should add some content to it-_- or prohibit from indexing... but as for me there is some place for content like... "We provide fast and free deliveries, but if you would like to take a look on it in live you can check out our partners shops: ..... If you would like to partner with us feel free to leave support request *here*"
+- Check out our workday kinda lie - it is just instagram feed=( If i would like to check out our instagram i would follow the bottom link. But it may be cool to create story of drivers/trucks working day.
+
+- add email to the bottom
+- Maybe Troy should post fotos to yellowsack instagram too? instagram looks kinda dropped=( we need to do something with it?
