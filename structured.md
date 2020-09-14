@@ -165,3 +165,5 @@ It will show google/users our pages hierarchy, as for me must have... After we w
 
 - add email to the bottom
 - Maybe Troy should post fotos to yellowsack instagram too? instagram looks kinda dropped=( we need to do something with it?
+
+- maybe some info about recycling stations which we are using? To show that we doesn't drop this trash in to the forest=DDD
