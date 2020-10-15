@@ -1,5 +1,4 @@
-# SEO
-## lil introduction
+## Lil introduction to SEO
 Search engine oprimization - from wikipedia it is process of improving site positions in search engines results, but it used to name this optimizations too.  
 
 It is huge, it is old, it is magic... There is a lot of myths like we should use divs with actions for links to pages where we don't want to let google go. And there is really a lot of such theories - seo speciallists should do something during the work=D
@@ -102,7 +101,7 @@ Lighthouse will guide us=)
 
 ## Possible data  
 We should stop thinking of page that hauls everything what it can - we can [refer](https://www.w3.org/TR/json-ld/#advanced-concepts) nodes from another pages.
-### pickups
+### Pickups
 Yellowsack pickup `Servie` - checkout page not suitable for main declaration - there is no description or apropriate image, we can add refering to product on cms.  
 - :offers with binding to Services on cms
   - Pickup dirt with picture and description both in schema and page
